@@ -1,4 +1,4 @@
-Practica3
+Hash Table in C#
 =========
 
-Ingresar datos persona
+Ingresar datos de persona
